@@ -41,6 +41,7 @@ img {
 button {
   background-color: rgb(165, 213, 243);
   border-radius: 12px;
+  color: black;
 }
 
 .decrement-btn{
